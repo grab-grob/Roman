@@ -182,6 +182,7 @@ h3 {
     font-size: 2rem;
   }
   #section-two_description {
+    margin-top: 50px;
     width: 600px;
   }
   .section-two_card-list {
